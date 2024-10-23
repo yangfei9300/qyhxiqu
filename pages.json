@@ -1,0 +1,130 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "群英会",
+				"navigationStyle": "custom"
+			}
+		},{
+			"path" : "pages/dati/dati",
+			"style":
+			{
+				"navigationBarTitleText" : "答题",
+				"navigationStyle": "custom"
+			}
+		},
+		
+		{
+			"path" : "pages/result/result",
+			"style" : 
+			{
+				"navigationBarTitleText" : "结果页",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/selType/selType",
+			"style" : 
+			{
+				"navigationBarTitleText" : "选择类型",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/comment/comment",
+			"style" : 
+			{
+				"navigationBarTitleText" : "点评",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/userList/userList",
+			"style" : 
+			{
+				"navigationBarTitleText" : "用户列表",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/readSubject/readSubject",
+			"style" : 
+			{
+				"navigationBarTitleText" : "查看",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/prepareView/prepareView",
+			"style" : 
+			{
+				"navigationBarTitleText" : "准备",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/xycz/xycz",
+			"style" : 
+			{
+				"navigationBarTitleText" : "胸有成竹",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/selDui/selDui",
+			"style" : 
+			{
+				"navigationBarTitleText" : "选择队伍",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/selFangxiang/selFangxiang",
+			"style" : 
+			{
+				"navigationBarTitleText" : "选择",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/xycz1/xycz1",
+			"style" : 
+			{
+				"navigationBarTitleText" : "快问快答",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/selType1/selType1",
+			"style" : 
+			{
+				"navigationBarTitleText" : "选择分类",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/userList1/userList1",
+			"style" : 
+			{
+				"navigationBarTitleText" : "用户列表",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/fenshus/fenshus",
+			"style" : 
+			{
+				"navigationBarTitleText" : "打分记录",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "群英会",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

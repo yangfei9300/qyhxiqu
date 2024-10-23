@@ -1,0 +1,39 @@
+.cenbterbg{
+	
+	background-image: url(/static/centerlogin.jpg);
+	background-size: 100% 100%;  
+}
+.inputview{
+	border:1px solid #c9c9c9;
+	width: 650rpx;  
+	padding:25rpx 25rpx;
+	border-radius: 15rpx;
+}
+.btns{
+	/* background-color:     #E17535; */
+	background-color:#E7942E;
+	color: white;
+	height: 100rpx;
+	width: 650rpx;
+	border-radius: 15rpx;
+	text-align: center;
+	line-height: 100rpx;
+}
+.textawa{
+	border:1px solid #c9c9c9;
+	padding:25rpx 25rpx;
+	border-radius: 15rpx;
+	width: 690rpx;
+}
+.btns1{
+	/* background-color:     #E17535; */
+	background-color:#E7942E;
+	color: white;
+	/* height: 70rpx; */
+	/* width: 250rpx; */
+	border-radius: 15rpx;
+	text-align: center;
+	line-height: 90rpx;  
+	color: #ffffff;
+	font-weight: bold;
+}
